@@ -1,4 +1,4 @@
-# Aditya — Premium Portfolio
+# Aditya — Portfolio
 
 A polished, responsive portfolio website built with vanilla HTML, CSS and JavaScript for the CodeAlpha Frontend Development task.
 
@@ -8,7 +8,7 @@ A polished, responsive portfolio website built with vanilla HTML, CSS and JavaSc
 - `script.js` — mobile navigation, active section tracking, reveal animations
 
 ## Sections
-- Hero / introduction
+- Introduction
 - About and design principles
 - Selected work / project cards
 - Skills and toolkit
@@ -24,18 +24,10 @@ Open `index.html` and `script.js` and customize:
 
 The project cards are sample portfolio entries; make sure their links point to your actual repositories.
 
-## Upload to GitHub
-1. Extract the ZIP.
-2. Create/open a repository such as `CodeAlpha_Portfolio`.
-3. Upload `index.html`, `style.css`, `script.js`, and `README.md` to the repository root.
-4. Commit the files.
-5. To publish, open **Settings → Pages**, choose deployment from the main branch and root folder, then save.
-
-Google Fonts are optional; fallback fonts are included.
-
 
 ## Projects represented
-- CyberAadhii website: https://cyberaadhii.in
+- CyberAadhii website
+- Cyberaadhii2 website
 - Image Gallery (CodeAlpha source project)
 - Premium Calculator (CodeAlpha source project)
 - Developer Portfolio
